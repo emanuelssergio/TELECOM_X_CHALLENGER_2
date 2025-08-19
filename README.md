@@ -7,7 +7,7 @@ Este projeto foi desenvolvido como a segunda etapa de um desafio de Ciência de 
 
 ├── challenger_2_teleconx .ipynb   # Notebook principal com toda a análise
 
-├── dataframe.csv                  # Dataset original
+├── TELECOM X dataframe.csv         # Dataset original
 
 └── README.md  
 
@@ -92,7 +92,7 @@ from sklearn.model_selection import cross_val_score
 
 Carregamento dos Dados: O notebook carrega os dados diretamente de um URL público. Não é necessário fazer o download manual.
 
-Execução: Abra o arquivo dataframe.ipynb em um ambiente como Jupyter Notebook ou Google Colab e execute as células sequencialmente.
+Execução: Abra o arquivo TELECOM X dataframe.csv.ipynb em um ambiente como Jupyter Notebook ou Google Colab e execute as células sequencialmente.
 
 
 ## AUTOR:
