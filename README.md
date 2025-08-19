@@ -3,7 +3,7 @@ Este projeto foi desenvolvido como a segunda etapa de um desafio de Ciência de 
 é construir modelos preditivos para identificar quais clientes têm maior probabilidade de cancelar seus serviços (churn), permitindo que a empresa atue de forma proativa na retenção.
 
 
-##estrutura do Projeto##
+## estrutura do Projeto##
 
 ├── challenger_2_teleconx .ipynb   # Notebook principal com toda a análise
 
@@ -11,7 +11,8 @@ Este projeto foi desenvolvido como a segunda etapa de um desafio de Ciência de 
 
 └── README.md  
 
-##3. Processo de Preparação dos Dados##
+## 3. Processo de Preparação dos Dados##
+
 A etapa de preparação dos dados foi crucial para garantir que as informações estivessem prontas para a modelagem:
 
 Classificação das Variáveis:
@@ -44,6 +45,7 @@ KNN (KNeighborsClassifier): Este modelo foi escolhido para comparação. O KNN �
 
 
 ## 5. Gráficos e Insights Obtidos ##
+
 A análise exploratória de dados (EDA) e a interpretação dos modelos trouxeram insights valiosos:
 
 Análise de Correlação: A matriz de correlação revelou que o tipo de contrato mensal e o baixo número de meses de contrato são os 
@@ -54,12 +56,14 @@ relevantes para a previsão de churn são: Meses_De_Contrato, Tipo_Contrato_Mont
 
 Desempenho dos Modelos: O modelo de Árvore de Decisão superou o KNN em todas as métricas de desempenho, incluindo acurácia e AUC.
 
-6. Como Executar o Notebook
+## 6. Como Executar o Notebook ##
+   
 Para rodar o notebook e reproduzir a análise, siga as instruções abaixo:
 
 Pré-requisitos: Certifique-se de que você tem o Python 3 instalado.
 
 Instalação de Bibliotecas: Instale as bibliotecas necessárias via pip.
+
 BIBLIOTECAS UTILISADAS:
 
 import pandas as pd
@@ -91,5 +95,5 @@ Carregamento dos Dados: O notebook carrega os dados diretamente de um URL públi
 Execução: Abra o arquivo dataframe.ipynb em um ambiente como Jupyter Notebook ou Google Colab e execute as células sequencialmente.
 
 
-AUTOR:
+## AUTOR:
 https://www.linkedin.com/in/emanuel-silva-sergio/
