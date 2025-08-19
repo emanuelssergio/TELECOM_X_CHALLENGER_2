@@ -4,8 +4,11 @@ Este projeto foi desenvolvido como a segunda etapa de um desafio de Ciência de 
 
 
 ##estrutura do Projeto##
+
 ├── challenger_2_teleconx .ipynb   # Notebook principal com toda a análise
+
 ├── dataframe.csv                  # Dataset original
+
 └── README.md  
 
 ##3. Processo de Preparação dos Dados##
